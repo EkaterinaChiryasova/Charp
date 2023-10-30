@@ -6,6 +6,7 @@
 */
 
 Console.Clear();
+
 int[] GetRandArray(int start, int end, int size)
 {
     int[] array = new int[size];
